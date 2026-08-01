@@ -1,10 +1,14 @@
 # ❤️ Heart Disease Prediction — End-to-End ML Deployment
+NAME : SIYA SINGH 
+REGISTRATION NUMBER : 23MIP10030
+APPLICATION NUMBER : IN26011506
+EMAIL : siya.23mip10030@vitvhopal.ac.in
 
 An end-to-end machine learning project that predicts whether a patient is at
 risk of heart disease based on clinical parameters, exposed as a REST API
 built with Flask and deployed live on Render.
 
-**Live Render URL:** `<PASTE YOUR RENDER DEPLOYMENT URL HERE AFTER DEPLOYING>`
+**Live Render URL:** `https://heart-disease-prediction-assignment-10-2.onrender.com/`
 
 ---
 
